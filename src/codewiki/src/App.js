@@ -5,7 +5,6 @@ import SideMenu from './Components/SideMenu';
 import Home from './Components/Home';
 import Faqs from './MarkdownPages/Faqs';
 
-
 function App() {
   return (
     <>
