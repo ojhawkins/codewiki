@@ -15,9 +15,9 @@ const SideMenu = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/faqs">
+            <a className="nav-link" href="/cs">
               <span data-feather="file"></span>
-              Faqs
+              C#
             </a>
           </li>
           <li className="nav-item">

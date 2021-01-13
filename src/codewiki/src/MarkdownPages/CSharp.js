@@ -1,9 +1,9 @@
 import React from "react";
 import Markdown from "./Markdown.js";
-import markdownPath from "../Markdown/Faqs.md";
+import markdownPath from "../Markdown/CSharp/CSharp.md";
 
-const Faqs =   () => {
+const CSharp =   () => {
   return <Markdown markdownPath={markdownPath} />;
 };
 
-export default Faqs;
+export default CSharp;
